@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @santm ; most of repositor are private as nothing much to share to public yet. If you like something in my website and want to know how it was done please do contact.
-- 👀 I’m interested in ...geeky stuff [photography](https://www.instagram.com/s.a.n.t.m/) and good cup of [coffee](https://www.instagram.com/p/CmuQUktSXLW/)
-- 🌱 I’m currently learning css ~~hugo bulma~~ astro & tailwind  anything that interest me 
-- 📫 check santm.com 
+- 👋 Hey there, I’m @santm! Full-stack dev crafting sleek, functional web experiences. Most of my repositories are private, but my work is showcased at [santm.com](https://santm.com). Curious about how something was built? Drop me a line!
+- 👀 I’m into geeky tech, [photography](https://www.instagram.com/s.a.n.t.m/), running, and a solid [coffee brew](https://www.instagram.com/p/CmuQUktSXLW/).
+- 🌱 Currently mastering Astro, Tailwind, and CSS, always chasing the next cool tool or framework.
+- 📫 Connect with me at [santm.com](https://santm.com) or [LinkedIn](https://www.linkedin.com/in/santanumisra/).
 
 <!---
 santm/santm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
